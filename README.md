@@ -1,4 +1,4 @@
-## react-native-viewpager
+# react-native-viewpager
 
 [![npm version](https://img.shields.io/npm/v/react-native-viewpager.svg?style=flat-square)](https://www.npmjs.com/package/react-native-viewpager)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-viewpager.svg?style=flat-square)](https://www.npmjs.com/package/react-native-viewpager)
